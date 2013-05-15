@@ -1,0 +1,10 @@
+PODS:
+  - BPBarButtonItem (0.0.3)
+
+DEPENDENCIES:
+  - BPBarButtonItem (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  BPBarButtonItem: ba8cdbd62cf63cb203a3a101384540c78a12c60f
+
+COCOAPODS: 0.19.1
