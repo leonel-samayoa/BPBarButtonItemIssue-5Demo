@@ -7,12 +7,14 @@
 //
 
 #import "AppDelegate.h"
+#import <BPBarButtonItem.h>
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [BPBarButtonItem customizeSegmentedControl:nil withStyle:BPBarButtonItemStyleStandardDark];
     return YES;
 }
 							
